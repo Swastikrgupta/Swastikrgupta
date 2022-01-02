@@ -49,6 +49,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/swastikrgupta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swastikrgupta-blue"></a>
+<a href="https://www.linkedin.com/in/swastikrgupta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swastikrgupta-blue?style=flat-square&logo=linkedin"></a>
 
 </p>
