@@ -1,16 +1,4 @@
-### Hi there! I'm Swastik Gupta 👋
-  
-  
 
-- 🌱 I’m currently learning flutter, AWS and machine learning.
-- 👯 I’m looking to collaborate on hackathons.
-- 🤔 I’m looking for help with AWS.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swastikrgupta/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: It’s all 0’s and 1’s
-
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hi there! I'm Swastik Gupta 👋.</h2>
 
