@@ -6,7 +6,7 @@ Software Engineer in the UK, building Java/Spring Boot services on AWS, infrastr
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Software Engineer at Barclays since Aug 2024: Spring Boot services on Amazon ECS, AWS infrastructure as code, and Gradle CI/CD pipelines with coverage and security gates. Received a Special Recognition Award.
+- 💼 &nbsp; Software Engineer since Aug 2024: Spring Boot services on Amazon ECS, AWS infrastructure as code, and Gradle CI/CD pipelines with coverage and security gates. Received a Special Recognition Award.
 - 🎓 &nbsp; Dual degree, B.E. Computer Engineering + M.B.A., from Thapar Institute of Engineering and Technology (2019–2024).
 - 🏆 &nbsp; Won JP Morgan Code for Good (2021), and hold a granted patent for RiverSweep, an autonomous waste segregation system.
 - 📜 &nbsp; AWS Certified AI Practitioner · Google Project Management Certificate.
