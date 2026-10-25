@@ -1,6 +1,6 @@
 <h2>Hi there! I'm Swastik Gupta 👋</h2>
 
-Software Engineer at **Barclays** in the UK, building Java/Spring Boot services on AWS, infrastructure as code and CI/CD pipelines with testing and security built in.
+Software Engineer in the UK, building Java/Spring Boot services on AWS, infrastructure as code and CI/CD pipelines with testing and security built in.
 
 🌐 &nbsp;**Portfolio:** [swastikrgupta.com](https://www.swastikrgupta.com)
 
