@@ -10,6 +10,7 @@ Software Engineer at **Barclays** in the UK, building Java/Spring Boot services 
 - 🎓 &nbsp; Dual degree, B.E. Computer Engineering + M.B.A., from Thapar Institute of Engineering and Technology (2019–2024).
 - 🏆 &nbsp; Won JP Morgan Code for Good (2021), and hold a granted patent for RiverSweep, an autonomous waste segregation system.
 - 📜 &nbsp; AWS Certified AI Practitioner · Google Project Management Certificate.
+- 🌱 &nbsp; Currently learning: building AI/LLM applications (agents, RAG) and distributed systems design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
